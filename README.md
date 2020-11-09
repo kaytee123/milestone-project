@@ -1,6 +1,6 @@
                               
 [VIEW LIVE PROJECT HERE](https://kaytee123.github.io/milestone-project/)    
-# This is a website project about luxury cars 
+# This is a website project about selling of electronics
 
 ## Testing
 
